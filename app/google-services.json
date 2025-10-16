@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "131976801076",
+    "firebase_url": "https://hotel-saas-b84a8-default-rtdb.firebaseio.com",
+    "project_id": "hotel-saas-b84a8",
+    "storage_bucket": "hotel-saas-b84a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131976801076:android:0c310fff34df404820d361",
+        "android_client_info": {
+          "package_name": "com.icodedtech.awatimotors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFTXmZ7ueFt3X0kGoXygQ6geGyFCaZzrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131976801076:android:d345bfb7a87e815420d361",
+        "android_client_info": {
+          "package_name": "com.icodedtech.udaanjobs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFTXmZ7ueFt3X0kGoXygQ6geGyFCaZzrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131976801076:android:daea5c3af2e1c93120d361",
+        "android_client_info": {
+          "package_name": "com.icodedtechsoftwares.atithiconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFTXmZ7ueFt3X0kGoXygQ6geGyFCaZzrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
