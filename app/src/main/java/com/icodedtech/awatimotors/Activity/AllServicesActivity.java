@@ -1619,6 +1619,9 @@ public class AllServicesActivity extends AppCompatActivity {
                     Intent intent = new Intent(context, ServiceDetailsActivity.class);
 
                     // Pass all service data
+
+
+
                     intent.putExtra("requestId", service.getRequestId());
                     intent.putExtra("customerName", service.getCustomerName());
                     intent.putExtra("vehicleNumber", service.getVehicleNumber());

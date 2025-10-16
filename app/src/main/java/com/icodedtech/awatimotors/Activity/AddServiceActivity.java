@@ -70,6 +70,7 @@ public class AddServiceActivity extends AppCompatActivity {
     private RadioGroup rgVehicleType;
     private RadioButton rbBike, rbCar;
     private Button btnSubmit, btnCamera, btnGallery, btnAddWork, btnClearAll;
+
     private Toolbar toolbar;
     private ProgressBar progressBar;
 
